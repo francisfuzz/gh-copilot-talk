@@ -19,29 +19,28 @@ export:
 ---
 
 <!--
-Hello good morning! Thank you all for being here with me today!I hope youve been enjoyng orientation, welcome to GitHub!
+Hello good morning! Thank you all for being here with me today! I hope you've been enjoyng orientation, welcome to GitHub!
 -->
 
 ---
 layout: image-right
-image: https://github.com/LadyKerr/mealmetrics-copilot/assets/47188731/7d0e2430-c5c9-483a-b8eb-afcda71e80f8
+image: https://avatars.githubusercontent.com/u/15894826?v=4
 transition: fade-out
 ---
 
-# Hi! I'm Kedasha!
+# Hi! I'm francisfuzz!
 
-- Jamaican gyal! 🇯🇲
-- Developer Advocate at GitHub
-- Software Engineer for ~5 years
-- Technical Content Creator ✨
-- Addicted to TikTok!😬
-- Committed to teaching and learning in public
+- Husband and Father 💍 👶
+- Based in Southern California 🏄‍♂️
+- Hubber since 2015; currently an engineer on the New User Experience team 🍄
+- Committed to completing an Ironman 70.3 in December 2024 💪
+- On rotation: Future Beats, Amapiano, and R&B 🎶
 
 <br>
 
-I love, love, love creating technical content on Instagram, Tiktok and sometimes Twitter. 
+I'm grateful to be here with you today!
 
-**Find me online @itsthatladydev**
+**Find me online: @francisfuzz**
 
 <style>
 h1 {
@@ -56,9 +55,11 @@ h1 {
 </style>
 
 <!--
-Hello! I'm Kedasha Kerr and Im a Developer Advocate here at GitHub. 
+Hello! I'm Francis! I go by francisfuzz on the Interwebs.
 
-Im super excited to talk to you about GitHub Copilot and how to get the most out of this tool.
+I'm a software engineer at GitHub working on the NUX team. NUX stands for New User Experience.
+
+I invite you to learn more about GitHub Copilot and how you can make the most out of this tool.
 -->
 
 ---
