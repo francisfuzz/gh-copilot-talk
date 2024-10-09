@@ -1,7 +1,5 @@
 ---
 theme: seriph
-background: >-
-  https://github.com/user-attachments/assets/f973f1f4-e62b-4d15-91ee-6be97c858126
 title: A Brief Introduction to GitHub Copilot
 favicon: ''
 font: Playfair Display
@@ -22,25 +20,26 @@ export:
 Hello good morning! Thank you all for being here with me today! I hope you've been enjoyng orientation, welcome to GitHub!
 -->
 
+## GitHub Copilot 101
+
+A brief introduction for Hubbers in every department, presented by @francisfuzz
+
 ---
 layout: image-right
 image: https://avatars.githubusercontent.com/u/15894826?v=4
 transition: fade-out
 ---
 
-# Hi! I'm francisfuzz!
+# 👋 I'm @francisfuzz!
 
 - Husband and Father 💍 👶
 - Based in Southern California 🏄‍♂️
-- Hubber since 2015; currently an engineer on the New User Experience team 🍄
+- Senior Software Engineer, New User Experience team 🍄
 - Committed to completing an Ironman 70.3 in December 2024 💪
-- On rotation: Future Beats, Amapiano, and R&B 🎶
 
 <br>
 
-I'm grateful to be here with you today!
-
-**Find me online: @francisfuzz**
+While I'm grateful to be here with you, today's talk is not about me. It's about how you can make the most of Copilot as a Hubber.
 
 <style>
 h1 {
@@ -67,14 +66,17 @@ layout: intro
 transition: fade-out
 ---
 
-# What we'll cover:
+# Where we're going: 
 
-- What is GitHub Copilot?
-- Features of GitHub Copilot
-- Access & Installation
-- Live Demos
-- Review
-- Q&A
+## [time in minutes] topic
+
+- [4] GitHub Copilot: what is it and why does it matter?
+- [4] Copilot's features
+- [4] Access & Installation
+- [10] Live Demo(s)
+- [5] Recap
+- [35] Q&A
+
 
 <style>
 h1 {
@@ -120,7 +122,11 @@ h1 {
 
 But first, what is GitHub Copilot? :thinking:
 
-Just in case you didn't know, GitHub Copilot is an AI pair programmer that helps you write code faster. It is designed to help with programming tasks and serves as your assistant while you're working in your IDE. It is The world’s most widely adopted AI developer tool.
+Just in case you didn't know, GitHub Copilot is an AI pair programmer that helps you write code faster. 
+
+It is designed to help with programming tasks and serves as your assistant while you're working in your IDE. 
+
+It is The world’s most widely adopted AI developer tool.
 
 -->
 
@@ -128,7 +134,7 @@ Just in case you didn't know, GitHub Copilot is an AI pair programmer that helps
 transition: fade-out
 ---
 
-# What is GitHub Copilot?
+# What is GitHub Copilot? (1/2)
 
 ### You can use GitHub Copilot in your IDE. 
 ### It is available in VSCode, Neovim, Jetbrain IDE and Visual Studio.
@@ -153,9 +159,13 @@ h1 {
 </style>
 
 <!--
-To install it you'll go to your respective marketplaces for your IDE and install the extension. Once ut's installed you'll need to authenticate with your GitHub account. and if you have accesss, you'll be able to use GitHub Copilot in your IDE.
+To install it you'll go to your respective marketplaces for your IDE and install the extension.
 
-And it works with many languages - especially open source languages like javascript, typescript, python, java, python, go, ruby, and more.
+Once it's installed you'll need to authenticate with your GitHub account. 
+
+When you have accesss, you'll be able to use GitHub Copilot in your IDE.
+
+And it works with many languages, like javascript, typescript, python, java, python, go, ruby, and more.
 -->
 
 
@@ -163,7 +173,7 @@ And it works with many languages - especially open source languages like javascr
 transition: fade-out
 ---
 
-# What is GitHub Copilot?
+# What is GitHub Copilot? (2/2)
 
 ### You can use GitHub Copilot on GitHub dotcom. 
 ### talk to your repos, create docs, draft PRs, inquire about issues and more.
@@ -186,9 +196,13 @@ h1 {
 </style>
 
 <!--
-To install it you'll go to your respective marketplaces for your IDE and install the extension. Once ut's installed you'll need to authenticate with your GitHub account. and if you have accesss, you'll be able to use GitHub Copilot in your IDE.
+You can use GitHub Copilot on GitHub dotcom. 
 
-And it works with many languages - especially open source languages like javascript, typescript, python, java, python, go, ruby, and more.
+There's a lot that you can do:
+- ask it about your repositories like explaining a piece of code
+- create documentation
+- draft pull requests
+- inquire about issues
 -->
 
 ---
@@ -199,10 +213,10 @@ transition: fade-out
 
 - Code Complete (inline suggestions)
 - Copilot Chat (inline and chat box)
-- Copilot Chat on Mobile!
-- Copilot in the CLI
-- Copilot PR Summaries (ent)
-- Copilot Knowledge bases (ent)
+- Copilot Chat on GitHub Mobile (iOS and Android)
+- Copilot in the CLI: https://cli.github.com
+- Copilot PR Summaries (Enterprise)
+- Copilot Knowledge bases (Enterprise)
 - Copilot Extensions (Public beta)
 - Copilot Autofix for CodeQL
 
@@ -211,8 +225,9 @@ transition: fade-out
 <!--
 GitHub Copilot is comprised of a suite of products that goes beyond code completion.
 
-Some of the tools that accompany GitHub Copilot includes a chat interface that you can use in your IDE, a command line tool via a GitHub CLI extension, GitHub Copilot for PRs, Copilot integrated into dotcom and many more. Today, we'll be looking at a few of the features that I've found to be most useful during my everyday development.
+You could think about GitHub Copilot not just a single product, but as a platform of products.
 
+Some of the tools that accompany GitHub Copilot includes a chat interface that you can use in your IDE, a command line tool via a GitHub CLI extension, GitHub Copilot for PRs, Copilot integrated into dotcom and many more. Today, we'll be looking at a few of the features that I've found to be most useful during my everyday development.
 
 -->
 
@@ -233,7 +248,9 @@ h1 {
 transition: fade-out
 ---
 
-# What is GitHub Copilot good for?
+# What is GitHub Copilot good for? (1/2)
+
+For developers:
 
 - 🛠️ Boilerplate code and frameworks
 - 🤷🏽‍♀️ Uncommon or confusing syntax
