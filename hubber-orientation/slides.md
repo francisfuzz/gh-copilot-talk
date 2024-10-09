@@ -77,7 +77,6 @@ transition: fade-out
 - [5] Recap
 - [35] Q&A
 
-
 <style>
 h1 {
   background-color: #E81CFF;
@@ -229,6 +228,8 @@ GitHub Copilot is comprised of a suite of products that goes beyond code complet
 You could think about GitHub Copilot not just a single product, but as a platform of products.
 
 Some of the tools that accompany GitHub Copilot includes a chat interface that you can use in your IDE, a command line tool via a GitHub CLI extension, GitHub Copilot for PRs, Copilot integrated into dotcom and many more. Today, we'll be looking at a few of the features that I've found to be most useful during my everyday development.
+
+FRANCIS MUST PROVIDE EXAMPLES FROM AT LEAST 2-3 BULLETS ON THIS SLIDE IN REAL LIFE
 
 -->
 
