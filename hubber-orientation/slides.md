@@ -180,7 +180,7 @@ transition: fade-out
 
 <br>
 
-![copilot-chat-dotcom](https://github.com/user-attachments/assets/8761ef7f-4329-4036-b263-621633e4204a)
+![copilot-chat-dotcom](https://github.com/user-attachments/assets/2268dc33-8205-4e83-902e-7abf45449b12)
 
 
 <style>
@@ -215,10 +215,11 @@ transition: fade-out
 - Copilot Chat (inline and chat box)
 - Copilot Chat on GitHub Mobile (iOS and Android)
 - Copilot in the CLI: https://cli.github.com
-- Copilot PR Summaries (Enterprise)
-- Copilot Knowledge bases (Enterprise)
+- Enterprise: Copilot PR Summaries & Copilot Knowledge bases (Enterprise)
 - Copilot Extensions (Public beta)
 - Copilot Autofix for CodeQL
+
+Keep up with the latest: https://github.blog/ai-and-ml/github-copilot/
 
 ![copilot-chat-dotcom](https://github.com/user-attachments/assets/d8a59971-e365-435e-824d-bfbfe21afd9f)
 
@@ -288,11 +289,36 @@ Many things! Some of what it's best at is . . .
 transition: fade-out
 ---
 
+# What is GitHub Copilot good for? (2/2)
+
+Even if you're not a developer...
+
+For product managers:
+
+- 📊 Analyzing data and generating reports
+- 📝 Drafting product specifications and documentation
+
+For designers:
+
+- 🎨 Generating code snippets for design prototypes
+- 🖌️ Generating CSS styles to match a particular design system
+
+For any writing-related task (every Hubber):
+
+- ✏️  Drafting personalized communications for your audience
+- 🦅 Proofreading and generating alternative phrasing
+- 😌 Translating technical jargon into accessible language
+
+---
+transition: fade-out
+---
+
 # Some Limitations of GitHub Copilot 
 
-- GitHub copilot != Compiler
-- The AI cannot read your mind 
-- The AI is not a replacement for good coding practices
+- GitHub Copilot != Compiler
+- The AI cannot read your mind (here's where Francis tells a story)
+- The AI is not a replacement for secure and correct coding practices (we need you!)
+- The AI is also not a replacement for your expertise and skills (no really, we need you!)
 
 <style>
 h1 {
@@ -324,7 +350,8 @@ It is also not here to replace your expertise and skills. Remember that you are 
 layout: center
 transition: fade-out
 ---
-# DEMOS
+
+# Demo time!
 
 <style>
 h1 {
@@ -440,8 +467,9 @@ transition: fade-out
 <br>
 <br>
 
-Kedasha Kerr | @itsthatladydev | Developer Advocate @ GitHub
-Find me on all socials!
+Francis Batac | @francisfuzz | Senior Software Engineer @GitHub
+
+Thank you! 🫧
 
 <style>
 h1 {
