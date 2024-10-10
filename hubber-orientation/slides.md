@@ -74,7 +74,7 @@ transition: fade-out
 ## [time in minutes] topic
 
 - [4] What is GitHub Copilot?
-- [4] Copilot Features
+- [4] Copilot's Suite of Features
 - [4] Access & Installation
 - [10] Live Demo(s)
 - [5] Recap
@@ -211,7 +211,7 @@ There's a lot that you can do:
 transition: fade-out
 ---
 
-# Copilot Features
+# Copilot's Suite of Features
 
 - Code Complete (inline suggestions)
 - Copilot Chat (inline and chat box)
