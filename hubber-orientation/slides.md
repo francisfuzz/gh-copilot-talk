@@ -351,7 +351,10 @@ layout: center
 transition: fade-out
 ---
 
-# Demo time!
+# Time for demos
+
+- Demo P: validating an email address
+- Demo Q: generating great questions
 
 <style>
 h1 {
