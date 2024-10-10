@@ -70,7 +70,7 @@ transition: fade-out
 
 ## [time in minutes] topic
 
-- [4] GitHub Copilot: what is it and why does it matter?
+- [4] What is GitHub Copilot?
 - [4] Copilot's features
 - [4] Access & Installation
 - [10] Live Demo(s)
@@ -97,7 +97,7 @@ We'll take a brief look at what GitHub Copilot is, what it's good for, how it wo
 transition: fade-out
 ---
 
-# What is GitHub Copilot?
+# What is GitHub Copilot? (1/3)
 
 ### GitHub Copilot is an AI pair programmer that helps you write code faster.
 
@@ -133,7 +133,7 @@ It is The world’s most widely adopted AI developer tool.
 transition: fade-out
 ---
 
-# What is GitHub Copilot? (1/2)
+# What is GitHub Copilot? (2/3)
 
 ### You can use GitHub Copilot in your IDE. 
 ### It is available in VSCode, Neovim, Jetbrain IDE and Visual Studio.
@@ -172,7 +172,7 @@ And it works with many languages, like javascript, typescript, python, java, pyt
 transition: fade-out
 ---
 
-# What is GitHub Copilot? (2/2)
+# What is GitHub Copilot? (3/3)
 
 ### You can use GitHub Copilot on GitHub dotcom. 
 ### talk to your repos, create docs, draft PRs, inquire about issues and more.
