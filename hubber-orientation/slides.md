@@ -22,7 +22,9 @@ Hello good morning! Thank you all for being here with me today! I hope you've be
 
 ## GitHub Copilot 101
 
-A brief introduction for Hubbers in every department, presented by @francisfuzz
+### A brief introduction to Copilot for _all_ Hubbers
+
+(Presented by @francisfuzz, courtesy of the NUX team)
 
 ---
 layout: image-right
