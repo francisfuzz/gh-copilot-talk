@@ -39,7 +39,7 @@ transition: fade-out
 
 <br>
 
-While I'm grateful to be here with you, today's talk is not about me. It's about how you can make the most of Copilot as a Hubber.
+Thanks for having me! I'm here to help you make the most of GitHub Copilot as a Hubber.
 
 <style>
 h1 {
