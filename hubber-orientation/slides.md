@@ -437,24 +437,6 @@ what else can I add to the game?
 
 ---
 transition: fade-out
-layout: center
----
-
-# Questions?
-
-<style>
-h1 {
-  background-color: #40C9FF;
-  background-image: linear-gradient(45deg, #40C9FF 10%, #E81CFF 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-text-fill-color: transparent;
-}
-</style>
----
-transition: fade-out
 ---
 
 # Resources
@@ -472,7 +454,28 @@ transition: fade-out
 
 Francis Batac | @francisfuzz | Senior Software Engineer @GitHub
 
-Thank you! 🫧
+🫧 ✨ Thank you! ✨ 🫧
+
+<style>
+h1 {
+  background-color: #40C9FF;
+  background-image: linear-gradient(45deg, #40C9FF 10%, #E81CFF 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+transition: fade-out
+layout: center
+---
+
+# Questions & Answers
+
+The floors is yours! 🎤
 
 <style>
 h1 {
