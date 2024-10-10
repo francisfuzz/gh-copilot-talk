@@ -32,8 +32,9 @@ transition: fade-out
 
 # 👋 I'm @francisfuzz!
 
+- Pronouns: he/him
 - Husband and Father 💍 👶
-- Based in Southern California 🏄‍♂️
+- Pilipino descent, based in Southern California 🏄‍♂️
 - Senior Software Engineer, New User Experience team 🍄
 - Committed to completing an Ironman 70.3 in December 2024 💪
 
