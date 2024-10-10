@@ -318,8 +318,7 @@ transition: fade-out
 
 - GitHub Copilot != Compiler
 - The AI cannot read your mind (here's where Francis tells a story)
-- The AI is not a replacement for secure and correct coding practices (we need you!)
-- The AI is also not a replacement for your expertise and skills (no really, we need you!)
+- The AI is not a replacement for secure, correct coding practices, as well as your unique expertise and skills
 
 <style>
 h1 {
