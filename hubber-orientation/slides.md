@@ -255,8 +255,8 @@ transition: fade-out
 
 # Time for demos
 
-- Demo P: validating an email address
-- Demo Q: generating great questions
+- "Dev" Demo: validating an email address
+- "For Everyone" Demo: generating great questions
 
 <style>
 h1 {
