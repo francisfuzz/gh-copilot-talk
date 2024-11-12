@@ -256,7 +256,7 @@ transition: fade-out
 # Time for demos
 
 - "Dev" Demo
-  - 🍔 Eploring a codebase
+  - 🍔 Exploring a codebase
   - 🍟 Validating an email address
 - "For Everyone" Demo: generating great questions
 
