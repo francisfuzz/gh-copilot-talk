@@ -24,7 +24,7 @@ Hello good morning! Thank you all for being here with me today! I hope you've be
 
 ### A brief introduction to Copilot for _all_ Hubbers
 
-(Presented by @francisfuzz, courtesy of the NUX team)
+(Presented by @francisfuzz, courtesy of the #nux team)
 
 ---
 layout: image-right
@@ -255,7 +255,9 @@ transition: fade-out
 
 # Time for demos
 
-- "Dev" Demo: exploring a codebase (OR) validating an email address
+- "Dev" Demo
+  - 🍔 Eploring a codebase
+  - 🍟 Validating an email address
 - "For Everyone" Demo: generating great questions
 
 <style>
